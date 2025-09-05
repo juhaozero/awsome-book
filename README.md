@@ -1,8 +1,4 @@
-# Awesome Programming Books
-
-![GitHub repo size](https://img.shields.io/github/repo-size/awesome-programming-books/awesome-programming-books.github.io)
-![GitHub stars](https://img.shields.io/github/stars/awesome-programming-books/awesome-programming-books.github.io?style=social)
-![GitHub forks](https://img.shields.io/github/forks/awesome-programming-books/awesome-programming-books.github.io?style=social)
+# Awesome-Book
 
 这是一个编程书籍列表，收集一些自己看过还觉得不错的书。
 
